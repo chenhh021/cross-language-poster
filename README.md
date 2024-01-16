@@ -9,7 +9,7 @@ Many applications have implementations in different languages. Although their la
 ---
 ## Dataset
 
-We collect 402 bug reports from 4 project pairs. For details, see [all_bugs.txt](https://anonymous.4open.science/r/cross-language-DD47/all_bugs.txt) for the whole set; [two_sided_bugs.md](https://anonymous.4open.science/r/cross-language-DD47/two_sided_bugs.md) for fixed two-sided bugs.
+We collect 402 bug reports from 4 project pairs. For details, see [all_bugs.txt](https://github.com/chenhh021/cross-language-poster/blob/main/all_bugs.txt) for the whole set; [two_sided_bugs.md](https://github.com/chenhh021/cross-language-poster/blob/main/two_sided_bugs.md) for fixed two-sided bugs.
 
 ---
 
@@ -24,6 +24,6 @@ We classified sample bugs into different categories listed below.
 | T1.1.1  | Reported Two-sided Bug| Fixed two-sided bugs with reports on both sides |
 | T1.1.2  | Identified Two-sided Bug| Fixed two-sided bugs with report on either Java or C\# side|
 | T1.2    | Unfixed Two-sided Bug| Two-sided bugs fixed on either Java or C\# side|
-| T1.2.1  | Potential Bug| unfixed bugs with serious symptoms |
-| T1.2.2  | Bug with Minor Symptoms| unfixed bug with minor symptoms |
+| T1.2.1  | Potential Bug| unfixed Bugs with serious symptoms |
+| T1.2.2  | Bug with Minor Symptoms| Unfixed bug with minor symptoms |
 | T2      | One-sided Bug | Bugs appear in either Java or C# implementation|
